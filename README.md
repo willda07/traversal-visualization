@@ -10,4 +10,4 @@ I'm using the Angular framework to develop this app, in the hopes that it will
 * Improve my own Angular skills
 * Eventually be hosted online for general usage
 
-Once the project is in a more developed stage, I'll enable forks and pull requests!
+Thanks for reading!
